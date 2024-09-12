@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@ethersproject/units": "^5.7.0",
+    "@mui/icons-material": "^6.1.0",
+    "@mui/material": "^6.1.0",
+    "@web3-react/core": "^8.2.3",
+    "@web3-react/metamask": "^8.2.4",
+    "bufferutil": "^4.0.8",
+    "ethers": "^6.13.2",
+    "eventemitter3": "^5.0.1",
+    "next": "14.2.10",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.10"
+    "utf-8-validate": "^5.0.10"
   },
   "devDependencies": {
     "eslint": "^8",
